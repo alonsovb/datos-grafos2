@@ -1,0 +1,1 @@
+0,Aguas Zarcas;1,Santa Clara;2,Ciudad Quesada;3,Muelle;4,Javillos;5,Los Ángeles;6,Florencia;7,La Tigra;8,Chachagua;9,Fortuna;:13,2,0;7,2,6;11,6,3;21,0,3;11,3,5;25,3,9;10,5,9;10,5,8;10,8,9;10,7,8;6,4,7;14,4,5;5,1,4;4,6,1;40,0,9;:Mecate,6,90;Tienda,10,80;Sleeping,6,20;Brujula,1,80;Enlatados,9,85;Radio,3,52;Baterias,5,63;Escalera,8,86;Fosforos,9,24;Abrelatas,7,32;:

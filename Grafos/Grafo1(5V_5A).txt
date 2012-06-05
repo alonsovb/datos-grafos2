@@ -1,0 +1,1 @@
+0,Javillos;1,Los Ángeles;2,Fortuna;3,Chachagua;4,La Tigra;:10,3,2;15,1,2;6,0,4;14,0,1;14,3,4;:Botella de Agua,1,50;Bolso,2,60;Cuchilla,1,45;Foco,3,30;Cuerda,2,75;:
